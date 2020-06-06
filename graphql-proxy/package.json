@@ -11,7 +11,7 @@
   "dependencies": {
     "@apollo/federation": "^0.11.3",
     "@apollo/gateway": "^0.11.7",
-    "apollo-server": "^2.9.16",
+    "apollo-server": "^2.14.2",
     "cookie-parser": "^1.4.4",
     "dotenv": "^8.2.0",
     "graphql": "^14.5.8",
