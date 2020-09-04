@@ -76,7 +76,7 @@
     "koa-static": "5.0.0",
     "koa-useragent": "3.0.0",
     "lorem-ipsum": "1.0.6",
-    "node-sass": "4.13.0",
+    "node-sass": "4.13.1",
     "qs": "6.5.2",
     "razzle": "3.0.0",
     "razzle-plugin-long-term-caching": "1.0.0-alpha.30",
